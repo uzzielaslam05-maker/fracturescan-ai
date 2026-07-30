@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: fracturescan-ai
-    runtime: docker
-    plan: free
-    healthCheckPath: /api/health
